@@ -26,20 +26,21 @@ A Python-based calculator with a beautiful and enhanced interface using the `ric
 ##Input Interface
 
 -✨ Welcome to the Mixed-Up Calculator! ✨
--Enter the first number: 21
--Enter the second number: 22
--Choose an operation (+, -, *, /) [+/-/*//]: +
+Enter the first number: 21
+Enter the second number: 22
+Choose an operation (+, -, *, /) [+/-/*//]: +
 
 ##Output Interface
 
-- Mixed-Up Calculator Results
-- Your choice: +                                                                                                                                                   
-- Result of your operation: 43.0                                                                                                                                                                                                                                                                                           
-- Actual operation performed: *                                                                                                                                     
-- Result of actual operation: 462.0                                                                                                                                 
+Mixed-Up Calculator Results
+Your choice: +                                                                  
+Result of your operation: 43.0                                                                                                                         
+
+Actual operation performed: * 
+Result of actual operation: 462.0 
 
 
--Do you want to perform another calculation? (yes/no) [yes/no]: no
+Do you want to perform another calculation? (yes/no) [yes/no]: no
 
--💡 Thank you for using the Mixed-Up Calculator! Goodbye! 💡
+💡 Thank you for using the Mixed-Up Calculator! Goodbye! 💡
 
