@@ -23,14 +23,14 @@ A Python-based calculator with a beautiful and enhanced interface using the `ric
    pip install rich
 
 ---
-##Input Interface
+## Input Interface
 
 -✨ Welcome to the Mixed-Up Calculator! ✨
 Enter the first number: 21
 Enter the second number: 22
 Choose an operation (+, -, *, /) [+/-/*//]: +
 
-##Output Interface
+## Output Interface
 
 Mixed-Up Calculator Results
 Your choice: +                                                                  
